@@ -1,2 +1,2 @@
 # Next doctor app
-Automate this application
+Automate this application using github action
